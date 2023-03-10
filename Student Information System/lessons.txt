@@ -1,0 +1,1 @@
+cd "c:\Users\RÅmeysa YAûAR\Desktop\" ; if ($?) { gcc îbs.c -o îbs } ; if ($?) { .\îbs },-1199572176
